@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.tableorder{
+	width:100%;
+	border: 3px;
+	border-collapse:collapse;
+	text-align: center;
+	/*background-color: #DBF289;*/
+}
+.tableorder tr{
+	height:50px;
+	font-size: 13px;
+}
+.tableorder td{
+	width:100px;
+}
+#tablemenu{
+	background-color: #df9e89;
+	height:30px;
+}
+
+
